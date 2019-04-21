@@ -1,0 +1,2 @@
+# ntr
+photos directory
